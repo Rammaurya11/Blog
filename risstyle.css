@@ -76,9 +76,7 @@ main {
   .mo1 {
     display: none;
   }
-  .mmm {
-    display: block;
-  }
+ 
   .user {
     display: flex;
     align-items: center;
